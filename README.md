@@ -12,7 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=prashanty10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prashanty10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
