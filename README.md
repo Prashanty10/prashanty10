@@ -1,33 +1,21 @@
-<h1 align="center">Hi 👋, I'm Prashant Yadav</h1>
-<h3 align="center">Building performant apps with React Native & modern tech</h3>
+# 💫 About Me:
+📱 React Native App Developer passionate about building scalable and user-friendly mobile applications.<br>💻 Experienced in full-stack mobile app development using the MERN Stack (MongoDB, Express.js, React Native, Node.js).<br>🔭 Currently working on production-ready mobile applications and backend APIs.<br>🌱 Continuously learning advanced React Native, app performance optimization, and system design.<br>🚀 Built full-stack applications such as Yumigo (Food Delivery App) and Glamora (Fashion Ecommerce App).<br>💬 Ask me about React Native, JavaScript, Node.js, Express.js, MongoDB, REST APIs, and Mobile App Development.<br>🤝 Open to collaborating on React Native projects, open-source contributions, and innovative mobile app ideas.<br>🎯 Seeking opportunities to grow as a Mobile App Developer and contribute to impactful products.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanty10&label=Profile%20views&color=0e75b6&style=flat" alt="prashanty10" /> </p>
 
-- 🔭 I’m currently working on **App Development**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashanty10) 
 
-- 🌱 I’m currently learning **React Native, UI/UX for mobile apps, API integration**
+# 💻 Tech Stack:
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prashanty10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prashanty10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prashanty10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **React Native projects, open-source mobile apps**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prashanty10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🤝 I’m looking for help with **Advanced React Native concepts, backend integration (Node.js/Firebase)**
+---
+[![](https://komarev.com/ghpvc/?username=prashanty10&icon=0&color=1)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prashanty10](https://github.com/Prashanty10)
-
-- 💬 Ask me about **App Development, React Native basics, UI design**
-
-- 📫 How to reach me **prashantyadav77842@gmail.com**
-
-- ⚡ Fun fact **I built my first apps (Food App & Furniture App) while still learning React Native 😃**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanty10&show_icons=true&locale=en&layout=compact" alt="prashanty10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanty10&show_icons=true&locale=en" alt="prashanty10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanty10&" alt="prashanty10" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
